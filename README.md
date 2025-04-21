@@ -1,6 +1,6 @@
 # Google Colab Projects
 
-This repository contains various Google Colab projects, each focusing on different topics and experiments. Click on any project to view and run it in Google Colab.
+This repository contains various Google Colab projects (including code-alongs), each focusing on different topics and experiments. Click on any project to view and run it in Google Colab.
 
 ## Projects
 
